@@ -1,0 +1,20 @@
+.card-container {
+    margin: 10px;
+    box-shadow: 0 0px 10px 0px rgba(0, 0, 0, 0.2);
+    text-decoration: none;
+}
+
+.card-container:hover {
+    margin: 10px;
+    box-shadow: 0 0px 10px 0px rgba(0, 0, 0, 0.2);
+    text-decoration: none;
+}
+
+.card-header {
+    background-color: #0091c2;
+    background: -webkit-gradient(linear,left top,right bottom,from(#003a5d),to(#0091c2));
+    background: linear-gradient(#003a5d,#0091c2);
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+}

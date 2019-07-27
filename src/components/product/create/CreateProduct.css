@@ -1,0 +1,41 @@
+.header {
+	text-align: left;
+}
+
+.btn {
+	width: 100%;
+	margin: 5px;
+}
+
+.description {
+	height: 200px !important;
+}
+
+.add-product {
+	padding: 20px 50px 100px 50px !important;	
+}
+
+.form-control:focus {
+  z-index: 2;
+  border-color: #3498db;
+  box-shadow: 1px 1px 1px rgba(52,152,219, 0.8) inset, 1px 1px 1px rgba(52,152,219, 0.8);
+}
+
+.qty_input{
+	margin-left: 5px;
+	margin-right: 5px;
+	font-weight: 600;
+}
+
+.input-group {
+	display: block;
+}
+
+.fa {
+	color: white;
+}
+
+.inc-btn {
+	width:30px;
+	height: 30px;
+}
