@@ -5,7 +5,7 @@
   "proxy": "http://localhost:5100",
   "dependencies": {
     "@tinymce/tinymce-react": "^3.0.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "jquery": "^3.3.1",
     "prop-types": "^15.7.2",
